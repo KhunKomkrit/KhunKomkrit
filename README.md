@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhunKomkrit
-- 👀 I have work experience on back-end web application. I'm use php framwork laravel for development. I'm learned about HTML,CSS,Javascript,Jquery.
+- 👀 I have work experience on back-end web application. I'm use php framework laravel for development. I'm learned about HTML,CSS,Javascript,Jquery.
 - 🌱 I’m currently learning Mobile application and Mobile Game.
 - 📫 Portfolio me https://khunkomkrit.github.io/portfolio-komkrit
 
