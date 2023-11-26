@@ -6,7 +6,8 @@ Welcome to my GitHub profile. I am a passionate developer with expertise in web 
 
 - **Web Development:**
   - HTML, CSS, JavaScript
-  - PHP, C#
+  - PHP => laravel,codeigniter
+  - Node JS => Nest JS, node-express
   - React.js, Next.js, Svelte, Vue.js (v2)
 
 - **Mobile App Development:**
