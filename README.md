@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Bank]!
 
 Welcome to my GitHub profile. I am a passionate developer with expertise in web development and a keen interest in mobile app development. Here's a quick overview of my skills:
 
